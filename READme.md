@@ -17,7 +17,7 @@ Gmail account with "Less secure app access" enabled or an App Password
 
 ```sh
 
-git clone https://github.com/your-username/smtp-server-using-gmail.git
+git clone https://github.com/Kingisline/SMTP-Server-Using-Gmail.git
 
 cd smtp-server-using-gmail
 
