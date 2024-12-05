@@ -87,3 +87,6 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 Feel free to adapt this README to better fit your project and preferences! If you have any questions or need further assistance, just let me know.
 
+### Youtube Link
+[How To Set Up Gmail SMTP Server](https://youtu.be/iMIKWFP4tRg)
+
